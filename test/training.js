@@ -1,6 +1,6 @@
 
 const { expect } = require('chai');
-const { arraySum, nonUniqueElements, longRepeat } = require('../src/training');
+const { arraySum, nonUniqueElements, longRepeat } = require('../src/training'); 
 
 describe('Synchronous', () => {
   it('should sum values in an array', () => {
