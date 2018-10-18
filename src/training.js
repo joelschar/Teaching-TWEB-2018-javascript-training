@@ -17,6 +17,8 @@ function longRepeat(line) {
   return Math.max.apply(null, nbLetters);
 }
 
+longRepeat('sdsffffse');
+
 module.exports = {
   nonUniqueElements,
   longRepeat,
